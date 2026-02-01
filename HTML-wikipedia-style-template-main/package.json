@@ -1,0 +1,24 @@
+{
+  "name": "html-wikipedia-style-template",
+  "version": "2.0.0",
+  "description": "",
+  "homepage": "https://github.com/Andrew1201-c/HTML-wikipedia-style-template#readme",
+  "bugs": {
+    "url": "https://github.com/Andrew1201-c/HTML-wikipedia-style-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew1201-c/HTML-wikipedia-style-template.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
